@@ -18,7 +18,7 @@ A production-ready web application for diabetes prediction using machine learnin
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/saketh-005/diabetes-prediction.git
+git clone https://github.com/satvik-05/diabetes-prediction.git
 cd diabetes-prediction
 ```
 
